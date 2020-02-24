@@ -2,6 +2,7 @@
 
 tutorial link:
 https://www.youtube.com/watch?v=5lVQgZzLMHc
+![Alt text](https://github.com/KristjanTreimann/vuex_todo_manager/blob/master/Vuex_todo_manager_screen.png)
 
 ## Font Awesome for Vue
 
